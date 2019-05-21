@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">FlagGame</string>
+    <string name="guess_the_country">Guess the Country</string>
+    <string name="guess_hints">Guess-Hints</string>
+    <string name="advanced_level">Advanced Level</string>
+    <string name="guess_the_flag">Guess the Flag</string>
+    <string name="hello_i_m_new">Hello i\'m new</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="srilanka">srilankaview</string>
+    <string name="srilankaview" />
+    <string name="viewsrilanka">viewsrilanka</string>
+    <string name="dog">dog</string>
+    <string name="txt">TextView</string>
+    <string name="submit">Submit</string>
+    <string name="_11activity">11activity</string>
+    <string name="button11">Submit</string>
+
+    <string name="edittext12">Insert Letter</string>
+    <string name="edittext13">_</string>
+    <string name="textview13">Insert Letter</string>
+    <string name="button13">Button</string>
+    <string name="Add">Add</string>
+    <string name="textview6">TextView6</string>
+    <string name="insertoneletter">insertoneletter</string>
+    <string name="insetoneletter">.</string>
+    <string name="a">A</string>
+    <string name="textview41">Country Name</string>
+    <string name="name">Name1</string>
+    <string name="name2">Name2</string>
+    <string name="name3">Name3</string>
+    <string name="country3">Country3</string>
+    <string name="country2">country2</string>
+    <string name="country1">Country1</string>
+
+    <string name="Name1">Name1</string>
+    <string name="correct_answer">Correct Answer</string>
+    <string name="answercorrect42">answercorrect42</string>
+    <string name="but_next">next</string>
+
+
+</resources>
